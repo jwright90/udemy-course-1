@@ -1,0 +1,9 @@
+# Blocklist files/folders in same directory as .gitignore file
+/*
+
+# Includelist
+!.gitignore
+!README.md
+
+!wp-content/plugins
+!wp-content/themes
